@@ -15,7 +15,7 @@ export default function PartyKits() {
     {
       title: "Kit Festa para 10 Pessoas",
       description: "Salgadinhos variados (esfirra, quibe), bolo médio e doces sortidos (brigadeiro, cajuzinho, olho de sogra). Ideal para aniversários em família!",
-      price: "R$ 90,00",
+      price: "90,00 €",
       image: "https://www.tasteofhome.com/wp-content/uploads/2019/10/candy-buffet-shutterstock_417012499.jpg",
       color: "bg-green-100 border-green-300", // Verde pastel
     },
