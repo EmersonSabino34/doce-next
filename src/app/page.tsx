@@ -22,7 +22,7 @@ export default function PartyKits() {
     {
       title: "Kit Festa para 20 Pessoas",
       description: "Salgadinhos premium (pastel, empada), bolo grande e doces variados (brigadeiro gourmet, moranguinho). Ótimo para festas com amigos!",
-      price: "R$ 160,00",
+      price: "160,00 €",
       image: "https://www.playpartyplan.com/wp-content/uploads/2023/04/birthday-charcuterie-board-17-2-e1680881373724-480x270.jpg",
       color: "bg-yellow-100 border-yellow-300", // Amarelo pastel
     },
