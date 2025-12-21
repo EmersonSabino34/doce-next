@@ -8,7 +8,7 @@ export default function PartyKits() {
     {
       title: "Kit Festa para 5 Pessoas",
       description: "Inclui salgadinhos variados (coxinha, risoles), bolo simples e doces (brigadeiro, beijinho). Perfeito para pequenas comemorações!",
-      price: "R$ 50,00",
+      price: "50,00 €",
       image: "https://www.tasteofhome.com/wp-content/uploads/2020/02/Birthday-board-TOHcom21_PU6005_G11_19_2b.jpg",
       color: "bg-blue-100 border-blue-300", // Azul pastel
     },
