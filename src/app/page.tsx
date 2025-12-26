@@ -13,6 +13,7 @@ export default function PartyKits() {
       image: "https://www.tasteofhome.com/wp-content/uploads/2020/02/Birthday-board-TOHcom21_PU6005_G11_19_2b.jpg",
       color: "bg-blue-100 border-blue-300", // Azul pastel
     },
+    
     {
       title: "Kit Festa para 10 Pessoas",
       description: "Salgadinhos variados (esfirra, quibe), bolo médio e doces sortidos (brigadeiro, cajuzinho, olho de sogra). Ideal para aniversários em família!",
