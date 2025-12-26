@@ -54,6 +54,7 @@ export default function PartyKits() {
                   alt={kit.title}
                   className="w-full h-48 object-cover rounded-t-lg"
                 />
+                
                 <CardTitle className="mt-4 text-2xl font-bold text-gray-800">{kit.title}</CardTitle>
                 <CardDescription className="text-gray-600">{kit.description}</CardDescription>
               </CardHeader>
