@@ -30,6 +30,7 @@ export default function PartyKits() {
       color: "bg-yellow-100 border-yellow-300", // Amarelo pastel
     },
     {
+      
       title: "Kit Festa para 40 Pessoas",
       description: "Salgadinhos completos (mini hot dog, bolinha de queijo), bolo extra grande e doces abundantes (brigadeiro, casadinho, doces finos). Para eventos maiores!",
       price: "300,00 €",
