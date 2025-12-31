@@ -29,6 +29,7 @@ export default function PartyKits() {
       image: "https://www.playpartyplan.com/wp-content/uploads/2023/04/birthday-charcuterie-board-17-2-e1680881373724-480x270.jpg",
       color: "bg-yellow-100 border-yellow-300", // Amarelo pastel
     },
+    
     { 
       title: "Kit Festa para 40 Pessoas",
       description: "Salgadinhos completos (mini hot dog, bolinha de queijo), bolo extra grande e doces abundantes (brigadeiro, casadinho, doces finos). Para eventos maiores!",
