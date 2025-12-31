@@ -7,6 +7,7 @@ export default function PartyKits() {
   const kits = [
     {
 
+
       
       title: "Kit Festa para 5 Pessoas",
       description: "Inclui salgadinhos variados (coxinha, risoles), bolo simples e doces (brigadeiro, beijinho). Perfeito para pequenas comemorações!",
