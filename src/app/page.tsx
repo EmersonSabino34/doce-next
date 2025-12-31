@@ -21,6 +21,7 @@ export default function PartyKits() {
       image: "https://www.tasteofhome.com/wp-content/uploads/2019/10/candy-buffet-shutterstock_417012499.jpg",
       color: "bg-green-100 border-green-300", // Verde pastel
     },
+    
     {
       title: "Kit Festa para 20 Pessoas",
       description: "Salgadinhos premium (pastel, empada), bolo grande e doces variados (brigadeiro gourmet, moranguinho). Ótimo para festas com amigos!",
