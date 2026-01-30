@@ -37,7 +37,6 @@ export default function PartyKits() {
       color: "bg-orange-100 border-orange-300", // Laranja pastel
     },
   ]
-
   return (
     <section className="py-20 bg-pink-50"> {/* Fundo rosa claro para harmonia */}
       <div className="container mx-auto px-4">
