@@ -47,6 +47,7 @@ export default function PartyKits() {
             Escolha o kit perfeito com salgadinhos, bolos e doces variados. Todos os combos incluem itens frescos e deliciosos!
           </p>
         </div>
+        
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           {kits.map((kit, index) => (
             <Card key={index} className={`shadow-lg ${kit.color}`}>
