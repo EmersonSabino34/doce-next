@@ -2,6 +2,7 @@
 
 Componente **PartyKits** desenvolvido em **Next.js (App Router)** utilizando **React**, **Tailwind CSS** e **shadcn/ui**. Ele apresenta kits de festa organizados por quantidade de pessoas, com visual moderno, cores suaves e layout totalmente responsivo.
 
+
 ---
 
 ## ✨ Visão Geral
